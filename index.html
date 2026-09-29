@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#1E252D">
+  <title>철강 퀴즈</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- 아이콘 정의: 카테고리마다 한 번 그리고 <use>로 재사용 -->
+  <svg width="0" height="0" class="sprite" aria-hidden="true">
+    <symbol id="icon-market" viewBox="0 0 32 32">
+      <path d="M4 27h24" />
+      <rect x="6" y="17" width="4" height="7" />
+      <rect x="14" y="12" width="4" height="12" />
+      <rect x="22" y="7" width="4" height="17" />
+      <path d="M5 13l8-6 6 3 8-6" />
+    </symbol>
+    <symbol id="icon-tech" viewBox="0 0 32 32">
+      <!-- 고로: 아래로 넓어지는 노체, 위의 장입구, 옆의 출선구와 쇳물 -->
+      <path d="M9 28l-2-11 4-9h8l4 9-2 11z" />
+      <path d="M12 8V4h6v4" />
+      <path d="M8 18h14" />
+      <path d="M21 24h5v4" />
+    </symbol>
+    <symbol id="icon-product" viewBox="0 0 32 32">
+      <path d="M6 5h20v5h-7v12h7v5H6v-5h7V10H6z" />
+    </symbol>
+  </svg>
+
+  <main id="app">
+    <!-- 홈 -->
+    <section id="screen-home" class="screen screen-home">
+      <header class="masthead">
+        <h1 class="title">철강 퀴즈</h1>
+        <p class="lede">시장, 기술, 제품 세 분야에서 철강 지식을 점검해 보세요. 분야를 고르면 10문제가 무작위로 나옵니다.</p>
+        <p class="nickname-bar">
+          <span id="home-nickname"></span>
+          <button type="button" id="btn-change-nickname" class="btn-link">닉네임 변경</button>
+        </p>
+      </header>
+
+      <div class="category-list">
+        <button type="button" class="category-btn" data-category="market">
+          <svg class="category-icon" aria-hidden="true"><use href="#icon-market" /></svg>
+          <span class="category-body">
+            <span class="category-name">시장</span>
+            <span class="category-desc">조강 생산, 원료 시세, 통상 이슈, 탄소중립 정책</span>
+          </span>
+          <span class="category-meta">
+            <span class="category-count"></span>
+            <span class="category-best"></span>
+          </span>
+        </button>
+        <button type="button" class="category-btn" data-category="tech">
+          <svg class="category-icon" aria-hidden="true"><use href="#icon-tech" /></svg>
+          <span class="category-body">
+            <span class="category-name">기술</span>
+            <span class="category-desc">고로·전기로 공정, 압연, 열처리, 저탄소 제철</span>
+          </span>
+          <span class="category-meta">
+            <span class="category-count"></span>
+            <span class="category-best"></span>
+          </span>
+        </button>
+        <button type="button" class="category-btn" data-category="product">
+          <svg class="category-icon" aria-hidden="true"><use href="#icon-product" /></svg>
+          <span class="category-body">
+            <span class="category-name">제품</span>
+            <span class="category-desc">강판, 후판, 철근, 형강, 강관, 스테인리스</span>
+          </span>
+          <span class="category-meta">
+            <span class="category-count"></span>
+            <span class="category-best"></span>
+          </span>
+        </button>
+      </div>
+
+      <button type="button" id="btn-home-ranking" class="btn btn-secondary">순위표 보기</button>
+    </section>
+
+    <!-- 닉네임 입력 -->
+    <section id="screen-nickname" class="screen screen-narrow" hidden>
+      <h2 class="screen-title">닉네임 입력</h2>
+      <form id="nickname-form" class="nickname-form" novalidate>
+        <label for="nickname-input">순위표에 표시될 이름이에요. 2~12자로 입력해 주세요.</label>
+        <input id="nickname-input" type="text" autocomplete="off" maxlength="30" aria-describedby="nickname-error">
+        <p id="nickname-error" class="error" role="alert"></p>
+        <div class="button-row">
+          <button type="submit" id="btn-nickname-submit" class="btn btn-primary">시작</button>
+          <button type="button" id="btn-nickname-cancel" class="btn btn-secondary">취소</button>
+        </div>
+      </form>
+    </section>
+
+    <!-- 문제 풀이 -->
+    <section id="screen-quiz" class="screen screen-quiz" hidden>
+      <div class="quiz-header">
+        <span id="quiz-category" class="quiz-category"></span>
+        <span id="quiz-progress" class="quiz-progress"></span>
+        <span id="quiz-score" class="quiz-score"></span>
+        <button type="button" id="btn-quit" class="btn-quit">나가기</button>
+      </div>
+      <div class="progress-bar" role="progressbar" aria-label="진행률" aria-valuemin="0" id="quiz-progressbar">
+        <div id="quiz-progressbar-fill" class="progress-bar-fill"></div>
+      </div>
+      <h2 id="quiz-question" class="quiz-question"></h2>
+      <div id="quiz-choices" class="choice-list"></div>
+      <div id="quiz-feedback" class="feedback" hidden aria-live="polite">
+        <p id="feedback-verdict" class="feedback-verdict"></p>
+        <p id="feedback-explanation" class="feedback-explanation"></p>
+        <button type="button" id="btn-next" class="btn btn-primary btn-block">다음 문제</button>
+      </div>
+    </section>
+
+    <!-- 결과 -->
+    <section id="screen-result" class="screen screen-result" hidden>
+      <h2 class="screen-title"><span id="result-category"></span> 결과</h2>
+      <div class="result-hero">
+        <svg class="gauge" viewBox="0 0 120 120" aria-hidden="true">
+          <circle class="gauge-track" cx="60" cy="60" r="52" />
+          <circle class="gauge-fill" id="result-gauge" cx="60" cy="60" r="52" />
+        </svg>
+        <div class="gauge-label">
+          <span class="gauge-caption">정답률</span>
+          <span id="result-accuracy" class="gauge-value"></span>
+        </div>
+      </div>
+      <p id="result-score" class="result-score"></p>
+      <dl class="result-stats">
+        <div><dt>정답 수</dt><dd id="result-correct"></dd></div>
+        <div><dt>소요 시간</dt><dd id="result-time"></dd></div>
+        <div><dt>순위</dt><dd id="result-rank"></dd></div>
+      </dl>
+      <p id="result-note" class="result-note"></p>
+      <div class="button-row button-row-result">
+        <button type="button" id="btn-retry" class="btn btn-primary">다시하기</button>
+        <button type="button" id="btn-review" class="btn btn-secondary">오답 다시보기</button>
+        <button type="button" id="btn-result-ranking" class="btn btn-secondary">순위표</button>
+        <button type="button" id="btn-result-home" class="btn btn-secondary">홈으로</button>
+      </div>
+    </section>
+
+    <!-- 오답 다시보기 -->
+    <section id="screen-review" class="screen" hidden>
+      <h2 class="screen-title">오답 다시보기</h2>
+      <p id="review-empty" class="empty" hidden>틀린 문제가 없습니다.</p>
+      <ol id="review-list" class="review-list"></ol>
+      <button type="button" id="btn-review-back" class="btn btn-secondary">결과로 돌아가기</button>
+    </section>
+
+    <!-- 순위표 -->
+    <section id="screen-ranking" class="screen" hidden>
+      <h2 class="screen-title">순위표</h2>
+      <div class="tabs" role="tablist" aria-label="카테고리">
+        <button type="button" role="tab" class="tab" data-category="market">시장</button>
+        <button type="button" role="tab" class="tab" data-category="tech">기술</button>
+        <button type="button" role="tab" class="tab" data-category="product">제품</button>
+      </div>
+      <p id="ranking-empty" class="empty" hidden>아직 기록이 없습니다. 10문제를 끝까지 풀면 첫 기록이 올라갑니다.</p>
+      <div class="table-wrap">
+        <table id="ranking-table" class="ranking-table">
+          <thead>
+            <tr><th>순위</th><th>닉네임</th><th>점수</th><th class="col-optional">정답</th><th>시간</th><th class="col-optional">날짜</th></tr>
+          </thead>
+          <tbody id="ranking-body"></tbody>
+        </table>
+      </div>
+      <button type="button" id="btn-ranking-back" class="btn btn-secondary">돌아가기</button>
+    </section>
+  </main>
+
+  <!-- 중도 포기 확인 -->
+  <dialog id="quit-dialog" class="dialog" aria-labelledby="quit-dialog-title">
+    <h2 id="quit-dialog-title" class="dialog-title">그만 풀까요?</h2>
+    <p>지금 나가면 이번 판은 순위에 기록되지 않습니다.</p>
+    <div class="button-row">
+      <button type="button" id="btn-quit-cancel" class="btn btn-primary">계속 풀기</button>
+      <button type="button" id="btn-quit-confirm" class="btn btn-secondary">나가기</button>
+    </div>
+  </dialog>
+
+  <script src="data/market.js"></script>
+  <script src="data/tech.js"></script>
+  <script src="data/product.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+# 4단계 검토용: 실제 secrets.toml 뒤에 읽혀 대회 이름만 덮어쓴다(비밀값 없음).
+# 실행: python -m streamlit run app.py --server.port 8502 --secrets.files .streamlit/secrets.toml tests/review-override.toml
+# 실제 대회 탭 대신 검토 전용 탭(review-2026-09-29)에 기록된다.
+CONTEST_ID = "review-2026-09-29"

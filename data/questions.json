@@ -1,0 +1,1808 @@
+{
+  "market": [
+    {
+      "id": "MKT-001",
+      "category": "market",
+      "question": "2023년 기준 세계 조강 생산량 1위 국가는?",
+      "choices": [
+        "중국",
+        "인도",
+        "일본",
+        "미국"
+      ],
+      "answerIndex": 0,
+      "explanation": "중국은 2023년 약 10억 톤을 생산해 세계 조강 생산의 절반 이상을 차지했다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-002",
+      "category": "market",
+      "question": "철강 생산의 주요 원료가 아닌 것은?",
+      "choices": [
+        "철광석",
+        "원료탄",
+        "고철",
+        "보크사이트"
+      ],
+      "answerIndex": 3,
+      "explanation": "보크사이트는 알루미늄의 원료다. 철강은 철광석·원료탄(고로)과 고철(전기로)을 주원료로 쓴다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-003",
+      "category": "market",
+      "question": "세계 각국의 철강 생산 통계를 집계해 발표하는 국제 단체는?",
+      "choices": [
+        "세계철강협회(worldsteel)",
+        "OPEC",
+        "WTO",
+        "IEA"
+      ],
+      "answerIndex": 0,
+      "explanation": "세계철강협회(worldsteel)는 회원사와 각국 협회 자료로 월간·연간 조강 생산 통계를 발표한다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-004",
+      "category": "market",
+      "question": "2023년 기준 세계 조강 생산량 2위 국가는?",
+      "choices": [
+        "인도",
+        "일본",
+        "미국",
+        "러시아"
+      ],
+      "answerIndex": 0,
+      "explanation": "인도는 2018년 일본을 제치고 2위에 올랐으며, 2023년 약 1억 4천만 톤을 생산했다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-005",
+      "category": "market",
+      "question": "2023년 조강 생산량 기준 국내 최대 철강사는?",
+      "choices": [
+        "포스코",
+        "현대제철",
+        "동국제강",
+        "세아제강"
+      ],
+      "answerIndex": 0,
+      "explanation": "세계철강협회 집계로 2023년 포스코(포스코홀딩스)는 약 3,844만 톤, 현대제철은 약 1,924만 톤을 생산했다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-006",
+      "category": "market",
+      "question": "세계철강협회 집계(2023년 기준)에서 전 세계 철강을 가장 많이 소비한 부문은?",
+      "choices": [
+        "자동차",
+        "가전",
+        "건설(건물·인프라)",
+        "조선"
+      ],
+      "answerIndex": 2,
+      "explanation": "세계철강협회에 따르면 2023년 건물·인프라가 세계 철강 수요의 52%를 차지했고, 자동차는 12%였다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-007",
+      "category": "market",
+      "question": "철강 통계에서 말하는 '조강(粗鋼)'의 뜻으로 맞는 것은?",
+      "choices": [
+        "철광석을 녹여 얻은 선철",
+        "도금까지 끝난 최종 제품",
+        "재활용을 기다리는 고철",
+        "압연 전 제강 단계에서 생산된 강철"
+      ],
+      "answerIndex": 3,
+      "explanation": "조강은 전로·전기로에서 막 만들어진 가공 전의 강철로, 한 나라의 철강 생산 규모를 비교하는 기준이다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-008",
+      "category": "market",
+      "question": "'고철'을 가리키는 다른 말은?",
+      "choices": [
+        "슬래그",
+        "펠릿",
+        "철스크랩",
+        "소결광"
+      ],
+      "answerIndex": 2,
+      "explanation": "철스크랩은 폐자동차·건물 철거 등에서 나온 고철로, 전기로 제강의 주원료다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-009",
+      "category": "market",
+      "question": "철강이 예전부터 '산업의 쌀'이라 불려 온 이유로 가장 알맞은 것은?",
+      "choices": [
+        "수출 비중이 가장 작아서",
+        "원료를 모두 국내에서 조달해서",
+        "생산에 노동력이 거의 필요 없어서",
+        "자동차·조선·건설 등 여러 산업에 기초 소재를 공급해서"
+      ],
+      "answerIndex": 3,
+      "explanation": "철강은 거의 모든 제조업과 건설에 들어가는 기초 소재라서 '산업의 쌀'로 불려 왔다. 오늘날에는 반도체를 이 말로 부르는 경우도 많다.",
+      "difficulty": "easy",
+      "speed": false
+    },
+    {
+      "id": "MKT-010",
+      "category": "market",
+      "question": "국내 철강업계를 대표하는 경제 단체는?",
+      "choices": [
+        "한국무역협회",
+        "대한상공회의소",
+        "한국자동차산업협회",
+        "한국철강협회"
+      ],
+      "answerIndex": 3,
+      "explanation": "한국철강협회는 국내 철강사들이 회원으로 참여해 통계 발표, 통상 대응 등을 맡는다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-011",
+      "category": "market",
+      "question": "대한민국이 법으로 정한 탄소중립 달성 목표 연도는?",
+      "choices": [
+        "2030년",
+        "2040년",
+        "2050년",
+        "2070년"
+      ],
+      "answerIndex": 2,
+      "explanation": "탄소중립기본법은 2050년 탄소중립을 국가 목표로 정하고 있어, 탄소 배출이 많은 철강업의 공정 전환이 과제다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-012",
+      "category": "market",
+      "question": "탄소중립 흐름 속에서 전기로 비중을 늘리려는 가장 큰 이유는?",
+      "choices": [
+        "철광석을 더 많이 써서",
+        "고로보다 탄소 배출이 적어서",
+        "제품을 더 두껍게 만들 수 있어서",
+        "석탄 사용량이 늘어나서"
+      ],
+      "answerIndex": 1,
+      "explanation": "전기로는 석탄으로 철광석을 환원하지 않고 고철을 녹이므로 고로-전로 방식보다 톤당 탄소 배출이 훨씬 적다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-013",
+      "category": "market",
+      "question": "외국 기업이 정상가격보다 낮은 가격으로 수출해 국내 산업이 피해를 볼 때 부과하는 관세는?",
+      "choices": [
+        "부가가치세",
+        "개별소비세",
+        "반덤핑관세",
+        "교육세"
+      ],
+      "answerIndex": 2,
+      "explanation": "반덤핑관세는 덤핑 수출로 생긴 가격 차이만큼 추가로 부과하는 관세로, 철강 통상 분쟁에서 자주 쓰인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-014",
+      "category": "market",
+      "question": "포스코의 제철소가 있는 두 도시는?",
+      "choices": [
+        "당진·인천",
+        "포항·광양",
+        "울산·여수",
+        "부산·창원"
+      ],
+      "answerIndex": 1,
+      "explanation": "포스코는 경북 포항과 전남 광양에 일관제철소를 운영한다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-015",
+      "category": "market",
+      "question": "현대제철의 고로 일관제철소가 있는 곳은?",
+      "choices": [
+        "포항",
+        "당진",
+        "광양",
+        "군산"
+      ],
+      "answerIndex": 1,
+      "explanation": "현대제철은 충남 당진에 고로를 갖춘 일관제철소를 운영하며, 2010년 첫 고로를 가동했다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "MKT-016",
+      "category": "market",
+      "question": "2023년 기준 세계 최대 철광석 수출국은?",
+      "choices": [
+        "호주",
+        "브라질",
+        "중국",
+        "캐나다"
+      ],
+      "answerIndex": 0,
+      "explanation": "호주는 세계 철광석 수출의 절반가량을 차지하는 최대 수출국이며, 브라질이 그 뒤를 잇는다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-017",
+      "category": "market",
+      "question": "EU가 철강 등 수입품의 탄소 배출량에 따라 비용을 부과하는 제도의 약칭은?",
+      "choices": [
+        "CBAM",
+        "RE100",
+        "IRA",
+        "RCEP"
+      ],
+      "answerIndex": 0,
+      "explanation": "CBAM(탄소국경조정제도)은 2023년 10월 전환기간을 시작했으며 철강이 주요 대상 품목이다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-018",
+      "category": "market",
+      "question": "2023년 조강 생산량 기준 세계 1위 철강사는?",
+      "choices": [
+        "중국 바오우강철",
+        "아르셀로미탈",
+        "일본제철",
+        "포스코"
+      ],
+      "answerIndex": 0,
+      "explanation": "세계철강협회 집계로 중국 바오우강철은 2023년 약 1억 3천만 톤을 생산해 2위 아르셀로미탈의 약 두 배였다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-019",
+      "category": "market",
+      "question": "2023년 기준 호주에 이어 세계 2위 철광석 수출국은?",
+      "choices": [
+        "브라질",
+        "인도",
+        "러시아",
+        "남아프리카공화국"
+      ],
+      "answerIndex": 0,
+      "explanation": "2023년 브라질은 약 3억 5천만 톤의 철광석을 수출해 호주(약 8억 9천만 톤)에 이어 2위였으며, 광산 기업 발레(Vale)가 중심이다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-020",
+      "category": "market",
+      "question": "2021~22 회계연도 기준 고로용 원료탄(제철용 석탄)의 세계 최대 수출국은?",
+      "choices": [
+        "미국",
+        "호주",
+        "인도네시아",
+        "독일"
+      ],
+      "answerIndex": 1,
+      "explanation": "호주 지질조사국에 따르면 호주는 2021~22 회계연도 세계 최대 원료탄 수출국이었다. 인도네시아는 발전용 석탄 수출이 많은 나라다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-021",
+      "category": "market",
+      "question": "미국이 2018년 국가안보를 이유로 수입 철강에 25% 관세를 부과한 근거 법 조항은?",
+      "choices": [
+        "무역법 301조",
+        "무역법 201조",
+        "무역확장법 232조",
+        "관세법 337조"
+      ],
+      "answerIndex": 2,
+      "explanation": "1962년 무역확장법 232조는 수입품이 국가안보를 위협할 때 대통령이 수입을 제한할 수 있게 한다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-022",
+      "category": "market",
+      "question": "2018년 미국 232조 철강 관세에 대해 한국이 합의한 방식은?",
+      "choices": [
+        "관세 50%로 인상 수용",
+        "대미 철강 수출 전면 중단",
+        "관세 면제 대신 대미 수출 물량을 제한(쿼터)",
+        "무관세로 수출 물량 무제한"
+      ],
+      "answerIndex": 2,
+      "explanation": "한국은 25% 관세를 면제받는 대신 2015~2017년 평균 대미 수출량의 70%로 수출 물량을 제한하는 쿼터에 합의했다.",
+      "difficulty": "normal",
+      "speed": false
+    },
+    {
+      "id": "MKT-023",
+      "category": "market",
+      "question": "2022년 기준 세계 조강 생산에서 고로-전로 방식이 차지하는 비중은 대략 얼마인가?",
+      "choices": [
+        "약 30%",
+        "약 50%",
+        "약 70%",
+        "약 90%"
+      ],
+      "answerIndex": 2,
+      "explanation": "세계철강협회 통계로 2022년 전로강 비중은 약 71.5%, 전기로강은 약 28.2%였다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-024",
+      "category": "market",
+      "question": "EU가 기업에 온실가스 배출 한도를 주고 남거나 모자란 배출권을 사고팔게 하는 제도의 약칭은?",
+      "choices": [
+        "CBAM",
+        "RCEP",
+        "USMCA",
+        "EU ETS"
+      ],
+      "answerIndex": 3,
+      "explanation": "EU ETS(배출권거래제)는 2005년 시작됐으며, CBAM의 수입품 탄소 비용은 이 배출권 가격과 연동된다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-025",
+      "category": "market",
+      "question": "2023년 조강 생산량 기준 일본 최대 철강사는?",
+      "choices": [
+        "JFE스틸",
+        "일본제철",
+        "고베제강",
+        "도쿄제철"
+      ],
+      "answerIndex": 1,
+      "explanation": "세계철강협회 집계로 2023년 일본제철은 약 4,366만 톤을 생산해 세계 4위였고, JFE스틸(약 2,509만 톤)이 일본 2위였다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-026",
+      "category": "market",
+      "question": "일본제철이 2023년 12월 인수 계획을 발표한 미국 철강사는?",
+      "choices": [
+        "뉴코어",
+        "클리블랜드클리프스",
+        "스틸다이내믹스",
+        "US스틸"
+      ],
+      "answerIndex": 3,
+      "explanation": "일본제철은 2023년 12월 US스틸 인수 계획을 발표했고, 미국 정부 심사를 거쳐 2025년 6월 인수를 마무리했다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-027",
+      "category": "market",
+      "question": "전기로(미니밀) 방식을 주로 쓰며, 2023년 조강 생산량 기준 미국 최대 철강사는?",
+      "choices": [
+        "US스틸",
+        "뉴코어",
+        "베들레헴스틸",
+        "아르셀로미탈"
+      ],
+      "answerIndex": 1,
+      "explanation": "세계철강협회 집계로 2023년 뉴코어는 약 2,120만 톤을 생산해 클리블랜드클리프스(약 1,727만 톤)와 US스틸(약 1,575만 톤)을 앞섰다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-028",
+      "category": "market",
+      "question": "2023년 조강 생산량 기준 세계 2위 철강사인 아르셀로미탈의 본사가 있는 나라는?",
+      "choices": [
+        "인도",
+        "프랑스",
+        "룩셈부르크",
+        "영국"
+      ],
+      "answerIndex": 2,
+      "explanation": "아르셀로미탈은 미탈스틸과 아르셀로가 합쳐져 탄생했고, 본사는 룩셈부르크에 있다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-029",
+      "category": "market",
+      "question": "세계 주요 철광석 광산 기업이 아닌 곳은?",
+      "choices": [
+        "발레",
+        "리오틴토",
+        "BHP",
+        "바오우강철"
+      ],
+      "answerIndex": 3,
+      "explanation": "발레(브라질)·리오틴토·BHP는 세계 해상 철광석 공급을 주도하는 광산 기업이고, 바오우강철은 철광석을 사들이는 중국 철강사다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-030",
+      "category": "market",
+      "question": "다음 중 후판(두꺼운 강판)을 가장 많이 사용하는 산업은?",
+      "choices": [
+        "가전",
+        "조선",
+        "식품 포장",
+        "반도체"
+      ],
+      "answerIndex": 1,
+      "explanation": "후판은 선박의 선체를 만드는 핵심 소재라서 조선업이 대표적인 수요처다. 가전·포장에는 주로 얇은 냉연·도금 강판이 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "MKT-031",
+      "category": "market",
+      "question": "2023년 세계철강협회 집계에서 한국의 조강 생산량 순위는?",
+      "choices": [
+        "3위",
+        "6위",
+        "10위",
+        "15위"
+      ],
+      "answerIndex": 1,
+      "explanation": "2023년 한국은 약 6,700만 톤을 생산해 중국·인도·일본·미국·러시아에 이어 6위였다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "MKT-032",
+      "category": "market",
+      "question": "2023년 세계 조강 생산량은 대략 얼마인가?",
+      "choices": [
+        "약 9억 톤",
+        "약 19억 톤",
+        "약 29억 톤",
+        "약 39억 톤"
+      ],
+      "answerIndex": 1,
+      "explanation": "세계철강협회 집계로 2023년 세계 조강 생산량은 약 18억 9천만 톤이었다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "MKT-033",
+      "category": "market",
+      "question": "2025년까지 국제 철광석 가격의 대표 지표(플랫츠 IODEX, 중국 도착 기준)가 기준으로 삼은 품위(철 함량)는?",
+      "choices": [
+        "철분 62%",
+        "철분 45%",
+        "철분 30%",
+        "철분 85%"
+      ],
+      "answerIndex": 0,
+      "explanation": "IODEX는 오랫동안 철분 62% 분광을 기준으로 했으나, 호주산 광석 품위 하락을 반영해 2026년 1월부터 61%로 바뀌었다.",
+      "difficulty": "hard",
+      "speed": false
+    },
+    {
+      "id": "MKT-034",
+      "category": "market",
+      "question": "EU CBAM이 배출량 보고만 하던 전환기간을 끝내고 확정 기간(definitive period)에 들어간 해는?",
+      "choices": [
+        "2023년",
+        "2026년",
+        "2030년",
+        "2034년"
+      ],
+      "answerIndex": 1,
+      "explanation": "CBAM은 2023년 10월 전환기간을 시작해 2026년 1월 확정 기간에 들어갔다. 다만 2025년 개정으로 인증서 판매는 2027년 2월부터 시작된다.",
+      "difficulty": "hard",
+      "speed": false
+    },
+    {
+      "id": "MKT-035",
+      "category": "market",
+      "question": "특정 국가를 가리지 않고, 수입 급증으로 국내 산업이 심각한 피해를 볼 때 발동하는 긴급 수입제한 조치는?",
+      "choices": [
+        "세이프가드",
+        "반덤핑관세",
+        "상계관세",
+        "원산지 규정"
+      ],
+      "answerIndex": 0,
+      "explanation": "세이프가드는 공정한 무역이라도 수입 급증으로 피해가 클 때 쓰는 조치로, EU가 2018년부터 철강에 적용했다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "MKT-036",
+      "category": "market",
+      "question": "수출국 정부가 자국 기업에 준 보조금 효과를 없애기 위해 수입국이 부과하는 관세는?",
+      "choices": [
+        "반덤핑관세",
+        "세이프가드",
+        "보복관세",
+        "상계관세"
+      ],
+      "answerIndex": 3,
+      "explanation": "상계관세는 보조금으로 낮아진 수출 가격만큼을 상쇄하는 관세다. 덤핑 자체에 대응하는 반덤핑관세와 구분된다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "MKT-037",
+      "category": "market",
+      "question": "스웨덴에서 SSAB 등이 추진해 수소로 만든 '화석연료 없는 철강'을 처음 선보인 프로젝트는?",
+      "choices": [
+        "HyREX",
+        "COURSE50",
+        "SALCOS",
+        "HYBRIT"
+      ],
+      "answerIndex": 3,
+      "explanation": "HYBRIT은 SSAB·LKAB·바텐폴이 함께한 프로젝트로 2021년 수소환원 철강을 처음 납품했다. HyREX는 포스코, COURSE50은 일본, SALCOS는 독일 잘츠기터의 프로젝트다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "MKT-038",
+      "category": "market",
+      "question": "2023년 중국의 철강재 수출량은 대략 얼마인가?",
+      "choices": [
+        "약 900만 톤",
+        "약 3천만 톤",
+        "약 9천만 톤",
+        "약 3억 톤"
+      ],
+      "answerIndex": 2,
+      "explanation": "중국은 2023년 약 9천만 톤의 철강재를 수출해 2016년 이후 최대치를 기록했고, 세계 철강 가격에 하방 압력이 되었다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "MKT-039",
+      "category": "market",
+      "question": "세계철강협회가 밝힌, 전 세계 인위적 이산화탄소 배출에서 철강 산업이 차지하는 비중은?",
+      "choices": [
+        "약 40%",
+        "약 25%",
+        "약 7~9%",
+        "약 1%"
+      ],
+      "answerIndex": 2,
+      "explanation": "철강 산업은 세계 CO2 배출의 약 7~9%를 차지해 대표적인 탄소 다배출 업종으로 꼽힌다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "MKT-040",
+      "category": "market",
+      "question": "2007년 영국·네덜란드계 철강사 코러스(Corus)를 인수한 인도 철강사는?",
+      "choices": [
+        "JSW스틸",
+        "SAIL",
+        "에사르스틸",
+        "타타스틸"
+      ],
+      "answerIndex": 3,
+      "explanation": "타타스틸은 2007년 코러스를 인수해 유럽에 생산 거점을 확보했다.",
+      "difficulty": "hard",
+      "speed": true
+    }
+  ],
+  "tech": [
+    {
+      "id": "TEC-001",
+      "category": "tech",
+      "question": "고로에서 철광석을 환원하는 데 주로 쓰이는 연료는?",
+      "choices": [
+        "코크스",
+        "천연가스",
+        "중유",
+        "우라늄"
+      ],
+      "answerIndex": 0,
+      "explanation": "코크스는 열원이자 환원제로 철광석의 산소를 제거한다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-002",
+      "category": "tech",
+      "question": "전기로(EAF) 제강의 주원료는?",
+      "choices": [
+        "고철(철스크랩)",
+        "석회석",
+        "코크스",
+        "보크사이트"
+      ],
+      "answerIndex": 0,
+      "explanation": "전기로는 전기 아크의 열로 고철을 녹여 쇳물을 만든다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-003",
+      "category": "tech",
+      "question": "철의 원소기호는?",
+      "choices": [
+        "Fe",
+        "Ir",
+        "Te",
+        "Pb"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fe는 철을 뜻하는 라틴어 ferrum에서 왔다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-004",
+      "category": "tech",
+      "question": "선철과 강(steel)을 구분하는 기준이 되는 원소는?",
+      "choices": [
+        "탄소",
+        "구리",
+        "아연",
+        "질소"
+      ],
+      "answerIndex": 0,
+      "explanation": "고로에서 나온 선철은 탄소가 약 4%로 많아 잘 깨지고, 제강에서 탄소를 낮춰야 질긴 강이 된다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-005",
+      "category": "tech",
+      "question": "고로에서 나오는 쇳물을 부르는 이름은?",
+      "choices": [
+        "용강",
+        "슬래그",
+        "용선",
+        "소결광"
+      ],
+      "answerIndex": 2,
+      "explanation": "고로 쇳물은 용선(녹은 선철)이고, 전로에서 불순물을 뺀 쇳물은 용강이라 부른다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-006",
+      "category": "tech",
+      "question": "고로에서 나온 쇳물에 산소를 불어넣어 탄소와 불순물을 없애 강으로 만드는 설비는?",
+      "choices": [
+        "코크스로",
+        "소결기",
+        "압연기",
+        "전로"
+      ],
+      "answerIndex": 3,
+      "explanation": "전로는 순산소를 불어넣어 용선의 탄소·규소·인 등을 태워 없애는 제강 설비다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-007",
+      "category": "tech",
+      "question": "금속을 회전하는 롤 사이로 통과시켜 두께를 줄이고 모양을 만드는 공정은?",
+      "choices": [
+        "주조",
+        "단조",
+        "용접",
+        "압연"
+      ],
+      "answerIndex": 3,
+      "explanation": "압연은 슬래브·빌릿 같은 반제품을 강판·봉강 등으로 만드는 대표 가공 공정이다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-008",
+      "category": "tech",
+      "question": "강을 높은 온도로 가열한 뒤 물이나 기름에 급히 식혀 단단하게 만드는 열처리는?",
+      "choices": [
+        "풀림(어닐링)",
+        "뜨임(템퍼링)",
+        "담금질(퀜칭)",
+        "불림(노멀라이징)"
+      ],
+      "answerIndex": 2,
+      "explanation": "담금질은 급랭으로 단단한 조직을 만들지만 취성이 커져, 보통 뜨임으로 인성을 되살린다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-009",
+      "category": "tech",
+      "question": "제철 과정에서 불순물이 모여 생기고, 시멘트 원료로 재활용되는 부산물은?",
+      "choices": [
+        "코크스",
+        "슬래그",
+        "스케일",
+        "빌릿"
+      ],
+      "answerIndex": 1,
+      "explanation": "고로 슬래그는 석회석과 철광석의 불순물이 결합한 것으로, 시멘트·골재 등으로 재활용된다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-010",
+      "category": "tech",
+      "question": "가루 형태의 철광석을 석회석 등과 섞어 덩어리로 구워 만든 고로 원료는?",
+      "choices": [
+        "괴광",
+        "소결광",
+        "용선",
+        "코크스"
+      ],
+      "answerIndex": 1,
+      "explanation": "가루 철광석을 그대로 넣으면 고로 속 가스 흐름이 막히므로, 소결로 덩어리를 만들어 투입한다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-011",
+      "category": "tech",
+      "question": "탄소 외에 크롬·니켈·몰리브덴 등을 넣어 특정 성질을 높인 강을 무엇이라 하나?",
+      "choices": [
+        "탄소강",
+        "선철",
+        "합금강",
+        "고철"
+      ],
+      "answerIndex": 2,
+      "explanation": "합금강은 첨가 원소로 강도·내식성·내열성 등을 높인 강으로, 스테인리스강도 합금강의 하나다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-012",
+      "category": "tech",
+      "question": "고로 윗부분으로 투입하는 원료가 아닌 것은?",
+      "choices": [
+        "소결광",
+        "알루미늄 괴",
+        "코크스",
+        "석회석"
+      ],
+      "answerIndex": 1,
+      "explanation": "고로에는 철원(소결광·펠릿·괴광), 환원제(코크스), 불순물을 모으는 석회석을 넣는다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-013",
+      "category": "tech",
+      "question": "고로 아래쪽의 풍구로 불어넣어 코크스를 태우는 것은?",
+      "choices": [
+        "차가운 물",
+        "액체 질소",
+        "뜨거운 공기(열풍)",
+        "수증기만"
+      ],
+      "answerIndex": 2,
+      "explanation": "열풍로에서 약 900~1,300℃로 데운 열풍이 코크스를 태워 고온과 환원 가스(일산화탄소)를 만든다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-014",
+      "category": "tech",
+      "question": "전기로에서 고철을 녹이는 열을 내는 방식은?",
+      "choices": [
+        "코크스 연소",
+        "태양열 집광",
+        "원자로의 열",
+        "흑연 전극에서 생기는 전기 아크"
+      ],
+      "answerIndex": 3,
+      "explanation": "흑연 전극과 고철 사이에 생기는 아크가 수천 ℃의 열을 내 고철을 녹인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-015",
+      "category": "tech",
+      "question": "철에 생기는 붉은 녹의 주성분은?",
+      "choices": [
+        "탄화철",
+        "산화철",
+        "황산구리",
+        "염화나트륨"
+      ],
+      "answerIndex": 1,
+      "explanation": "철이 물과 산소를 만나 산화하면 수산화철·산화철로 이루어진 녹이 생긴다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "TEC-016",
+      "category": "tech",
+      "question": "쇳물을 굳혀 슬래브·블룸·빌릿 같은 반제품을 연속으로 만드는 공정은?",
+      "choices": [
+        "연속주조",
+        "압연",
+        "소둔",
+        "도금"
+      ],
+      "answerIndex": 0,
+      "explanation": "연속주조는 쇳물을 주형에 부어 냉각하며 끊김 없이 반제품을 뽑아내는 공정이다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-017",
+      "category": "tech",
+      "question": "스테인리스강이 녹슬지 않도록 10.5% 이상 첨가하는 원소는?",
+      "choices": [
+        "크롬",
+        "탄소",
+        "망간",
+        "황"
+      ],
+      "answerIndex": 0,
+      "explanation": "크롬이 표면에 얇은 산화 피막(부동태 피막)을 만들어 부식을 막는다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-018",
+      "category": "tech",
+      "question": "전로 다음 단계에서 쇳물의 성분을 미세하게 맞추고 수소 등 가스를 제거하는 공정은?",
+      "choices": [
+        "2차 정련",
+        "소결",
+        "코크스 제조",
+        "산세"
+      ],
+      "answerIndex": 0,
+      "explanation": "2차 정련(노외 정련)은 레이들이나 진공 설비(RH 등)에서 성분·온도·가스를 조정해 고급강을 만든다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-019",
+      "category": "tech",
+      "question": "담금질로 단단해진 강을 다시 적당한 온도로 가열해 인성을 회복시키는 열처리는?",
+      "choices": [
+        "뜨임(템퍼링)",
+        "풀림(어닐링)",
+        "불림(노멀라이징)",
+        "침탄"
+      ],
+      "answerIndex": 0,
+      "explanation": "뜨임은 담금질한 강의 취성을 줄이고 강도와 인성의 균형을 맞춘다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-020",
+      "category": "tech",
+      "question": "강을 가열한 뒤 노 안에서 천천히 식혀 연하게 하고 내부 응력을 없애는 열처리는?",
+      "choices": [
+        "담금질(퀜칭)",
+        "풀림(어닐링)",
+        "뜨임(템퍼링)",
+        "고주파 경화"
+      ],
+      "answerIndex": 1,
+      "explanation": "풀림은 가공으로 딱딱해진 강을 연하게 되돌려, 냉연강판 생산에서는 소둔 공정으로 불린다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-021",
+      "category": "tech",
+      "question": "냉간 압연 전에 열연 코일 표면의 산화 피막(스케일)을 산으로 녹여 없애는 공정은?",
+      "choices": [
+        "소둔",
+        "산세",
+        "조질압연",
+        "도장"
+      ],
+      "answerIndex": 1,
+      "explanation": "산세는 염산 등으로 스케일을 제거해 냉간 압연 시 표면 결함을 막는다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-022",
+      "category": "tech",
+      "question": "원료탄을 공기를 차단한 채 고온으로 구워 코크스를 만드는 설비는?",
+      "choices": [
+        "전로",
+        "소둔로",
+        "레이들",
+        "코크스로"
+      ],
+      "answerIndex": 3,
+      "explanation": "코크스로에서 원료탄을 약 1,000℃ 이상으로 건류하면 휘발분이 빠져 단단한 코크스가 된다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-023",
+      "category": "tech",
+      "question": "강의 탄소 함량이 높아질수록 일반적으로 나타나는 변화는?",
+      "choices": [
+        "연해지고 용접이 쉬워진다",
+        "단단해지지만 잘 늘어나지 않고 용접이 어려워진다",
+        "녹이 전혀 슬지 않게 된다",
+        "자석에 붙지 않게 된다"
+      ],
+      "answerIndex": 1,
+      "explanation": "탄소가 늘면 강도·경도는 오르지만 연성과 용접성은 떨어진다.",
+      "difficulty": "normal",
+      "speed": false
+    },
+    {
+      "id": "TEC-024",
+      "category": "tech",
+      "question": "열간 압연과 냉간 압연을 나누는 기준 온도는?",
+      "choices": [
+        "녹는점",
+        "재결정 온도",
+        "끓는점",
+        "상온 25℃"
+      ],
+      "answerIndex": 1,
+      "explanation": "재결정 온도보다 높은 온도에서 압연하면 열간, 낮으면 냉간 압연이다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-025",
+      "category": "tech",
+      "question": "쇳물에 알루미늄이나 규소를 넣어 녹아 있는 산소를 없애는 작업은?",
+      "choices": [
+        "탈황",
+        "탈탄",
+        "탈인",
+        "탈산"
+      ],
+      "answerIndex": 3,
+      "explanation": "탈산은 산소와 잘 결합하는 원소를 넣어 산소를 산화물로 만들어 없애는 작업이며, 충분히 탈산해 응고 때 가스가 거의 나오지 않는 강을 킬드강이라 한다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-026",
+      "category": "tech",
+      "question": "황 때문에 강이 고온에서 쉽게 깨지는 '적열취성'을 막기 위해 첨가하는 원소는?",
+      "choices": [
+        "인",
+        "납",
+        "구리",
+        "망간"
+      ],
+      "answerIndex": 3,
+      "explanation": "망간이 황과 결합해 황화망간(MnS)을 만들어, 황이 결정립계에 모여 생기는 취성을 막는다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-027",
+      "category": "tech",
+      "question": "압연 온도와 냉각 속도를 정밀하게 제어해 별도 열처리 없이 강도와 인성을 높이는 기술은?",
+      "choices": [
+        "CGL",
+        "EAF",
+        "BOF",
+        "TMCP"
+      ],
+      "answerIndex": 3,
+      "explanation": "TMCP(열가공제어)는 조선·해양 구조물용 후판 생산에 널리 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-028",
+      "category": "tech",
+      "question": "강판을 연속으로 녹인 아연에 통과시켜 도금하는 설비의 약칭은?",
+      "choices": [
+        "CAL",
+        "EAF",
+        "CGL",
+        "RH"
+      ],
+      "answerIndex": 2,
+      "explanation": "CGL(연속용융아연도금라인)에서 소둔과 아연 도금을 한 라인에서 연속으로 처리한다. CAL은 연속소둔라인이다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-029",
+      "category": "tech",
+      "question": "고로·코크스로·전로에서 나오는 부생가스의 주된 활용처는?",
+      "choices": [
+        "전량 대기 방출",
+        "식품 첨가물",
+        "제철소 자체 발전과 가열로 연료",
+        "반도체 세정액"
+      ],
+      "answerIndex": 2,
+      "explanation": "부생가스는 일산화탄소·수소 등을 포함해 제철소 발전소와 가열로의 연료로 재활용된다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-030",
+      "category": "tech",
+      "question": "강재 시편을 잡아당겨 끊어질 때까지 시험하는 인장시험으로 알 수 있는 값은?",
+      "choices": [
+        "전기 저항",
+        "녹는점",
+        "항복강도와 인장강도",
+        "열전도율"
+      ],
+      "answerIndex": 2,
+      "explanation": "인장시험으로 항복강도·인장강도·연신율을 측정하며, 강재 규격의 핵심 기준이 된다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "TEC-031",
+      "category": "tech",
+      "question": "수소로 철광석을 환원하는 수소환원제철에서 주로 나오는 부산물은?",
+      "choices": [
+        "물",
+        "이산화탄소",
+        "일산화탄소",
+        "메탄"
+      ],
+      "answerIndex": 0,
+      "explanation": "수소가 철광석의 산소와 결합해 물이 생기므로, 탄소로 환원할 때와 달리 이산화탄소가 거의 나오지 않는다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "TEC-032",
+      "category": "tech",
+      "question": "포스코가 FINEX 유동환원 기술을 바탕으로 개발 중인(2026년 기준) 수소환원제철 기술의 이름은?",
+      "choices": [
+        "HyREX",
+        "HYBRIT",
+        "MIDREX",
+        "COURSE50"
+      ],
+      "answerIndex": 0,
+      "explanation": "HyREX는 포스코의 FINEX 유동환원 기술을 바탕으로, 가루 철광석을 수소로 직접 환원하는 기술이다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "TEC-033",
+      "category": "tech",
+      "question": "포스코가 상용화한, 가루 철광석과 일반탄을 소결·코크스 공정 없이 바로 쓰는 용융환원 제철법은?",
+      "choices": [
+        "MIDREX",
+        "HYL",
+        "FINEX",
+        "HIsarna"
+      ],
+      "answerIndex": 2,
+      "explanation": "FINEX는 2007년 포항에서 상업 설비가 가동됐으며, 소결·코크스 공정을 생략해 오염물질 배출을 줄였다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "TEC-034",
+      "category": "tech",
+      "question": "철-탄소 상태도에서 오스테나이트가 페라이트와 시멘타이트(펄라이트)로 바뀌는 공석점의 탄소 함량은 약 얼마인가?",
+      "choices": [
+        "약 0.02%",
+        "약 0.8%",
+        "약 2.1%",
+        "약 4.3%"
+      ],
+      "answerIndex": 1,
+      "explanation": "공석점은 약 0.77~0.8% C, 약 727℃(자료에 따라 723℃)다. 0.02%는 페라이트의 최대 고용 한도, 4.3%는 공정점이다.",
+      "difficulty": "hard",
+      "speed": false
+    },
+    {
+      "id": "TEC-035",
+      "category": "tech",
+      "question": "강과 주철을 나누는 탄소 함량의 경계는 약 얼마인가?",
+      "choices": [
+        "약 0.2%",
+        "약 0.8%",
+        "약 2.1%",
+        "약 6.7%"
+      ],
+      "answerIndex": 2,
+      "explanation": "탄소 약 2.1% 이하는 강, 그보다 많으면 주철로 구분한다. 6.7%는 시멘타이트(Fe3C)의 탄소 함량이다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "TEC-036",
+      "category": "tech",
+      "question": "상온에서 순철(페라이트)의 결정 구조는?",
+      "choices": [
+        "면심입방(FCC)",
+        "조밀육방(HCP)",
+        "단순입방(SC)",
+        "체심입방(BCC)"
+      ],
+      "answerIndex": 3,
+      "explanation": "순철은 상온에서 체심입방 구조이고, 약 912℃ 이상에서 면심입방(오스테나이트)으로 바뀐다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "TEC-037",
+      "category": "tech",
+      "question": "대표적인 오스테나이트계 스테인리스강인 304 강종의 주요 합금 조성은?",
+      "choices": [
+        "크롬 약 8%, 니켈 약 18%",
+        "크롬 약 18%, 니켈 약 8%",
+        "크롬 약 12%, 몰리브덴 약 2%",
+        "망간 약 18%, 탄소 약 8%"
+      ],
+      "answerIndex": 1,
+      "explanation": "304 강종은 흔히 18-8 스테인리스라 부르며, 니켈이 오스테나이트 조직을 안정시킨다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "TEC-038",
+      "category": "tech",
+      "question": "오스테나이트 상태의 강을 급랭할 때 생기는 매우 단단한 조직은?",
+      "choices": [
+        "페라이트",
+        "펄라이트",
+        "오스테나이트",
+        "마르텐사이트"
+      ],
+      "answerIndex": 3,
+      "explanation": "급랭하면 탄소가 빠져나갈 시간이 없어 뒤틀린 결정 구조인 마르텐사이트가 생긴다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "TEC-039",
+      "category": "tech",
+      "question": "고로-전로 일관제철소에서 이산화탄소를 가장 많이 배출하는 공정은?",
+      "choices": [
+        "압연",
+        "도금",
+        "출하·포장",
+        "제선(고로)"
+      ],
+      "answerIndex": 3,
+      "explanation": "고로에서 코크스로 철광석을 환원할 때 대량의 CO2가 나와, 제철소 배출의 대부분이 제선 공정에서 생긴다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "TEC-040",
+      "category": "tech",
+      "question": "고급강을 만들 때 고철 속 구리 등 불순물을 희석하려고 전기로에 함께 넣는 고순도 철원은?",
+      "choices": [
+        "슬래그",
+        "석회석",
+        "직접환원철(DRI·HBI)",
+        "코크스"
+      ],
+      "answerIndex": 2,
+      "explanation": "직접환원철은 철광석을 녹이지 않고 가스로 환원한 것으로, 불순물이 적어 전기로 강의 품질을 높인다.",
+      "difficulty": "hard",
+      "speed": true
+    }
+  ],
+  "product": [
+    {
+      "id": "PRD-001",
+      "category": "product",
+      "question": "강판 표면에 아연을 입혀 부식을 막은 제품은?",
+      "choices": [
+        "아연도금강판",
+        "전기강판",
+        "후판",
+        "열연강판"
+      ],
+      "answerIndex": 0,
+      "explanation": "아연이 철보다 먼저 산화되며 강판을 보호해 자동차·가전·건축 외장재에 널리 쓰인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-002",
+      "category": "product",
+      "question": "콘크리트 속에 넣어 인장력을 보강하는 봉 모양의 철강 제품은?",
+      "choices": [
+        "철근",
+        "강관",
+        "선재",
+        "형강"
+      ],
+      "answerIndex": 0,
+      "explanation": "철근은 압축에 강하고 인장에 약한 콘크리트를 보강하며, 표면의 마디가 부착력을 높인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-003",
+      "category": "product",
+      "question": "통조림 캔 등 식품 용기에 쓰이는, 주석을 얇게 입힌 강판은?",
+      "choices": [
+        "석도강판",
+        "후판",
+        "전기강판",
+        "컬러강판"
+      ],
+      "answerIndex": 0,
+      "explanation": "석도강판(틴플레이트)은 주석 도금으로 내식성이 좋고 주석의 독성이 낮아 통조림 등 식품 용기에 쓰인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-004",
+      "category": "product",
+      "question": "슬래브를 고온에서 압연해 코일 형태로 감은 강판은?",
+      "choices": [
+        "열연강판",
+        "냉연강판",
+        "석도강판",
+        "전기강판"
+      ],
+      "answerIndex": 0,
+      "explanation": "열연강판은 강관·구조재 등에 바로 쓰이거나, 냉연강판의 소재가 된다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-005",
+      "category": "product",
+      "question": "단면이 H 모양이고 건물·교량 뼈대의 기둥과 보에 쓰이는 제품은?",
+      "choices": [
+        "철근",
+        "선재",
+        "H형강",
+        "석도강판"
+      ],
+      "answerIndex": 2,
+      "explanation": "H형강은 단면 효율이 좋아 적은 무게로 큰 하중을 견뎌 철골 구조물의 기본 부재로 쓰인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-006",
+      "category": "product",
+      "question": "석유·가스 수송이나 배관에 쓰이는 속이 빈 원통형 철강 제품은?",
+      "choices": [
+        "철근",
+        "후판",
+        "강관",
+        "형강"
+      ],
+      "answerIndex": 2,
+      "explanation": "강관은 송유관·가스관·수도관·구조용 파이프 등으로 쓰인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-007",
+      "category": "product",
+      "question": "가늘고 긴 봉강을 코일 모양으로 감은 제품으로, 볼트·스프링·타이어코드의 원료가 되는 것은?",
+      "choices": [
+        "후판",
+        "강관",
+        "석도강판",
+        "선재"
+      ],
+      "answerIndex": 3,
+      "explanation": "선재는 다시 뽑거나 가공해 볼트·너트, 스프링, 타이어코드, 와이어 등을 만든다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-008",
+      "category": "product",
+      "question": "주방용품과 싱크대에 스테인리스강을 많이 쓰는 가장 큰 이유는?",
+      "choices": [
+        "가장 가벼운 금속이라서",
+        "전기가 통하지 않아서",
+        "녹이 잘 슬지 않아서",
+        "값이 가장 싸서"
+      ],
+      "answerIndex": 2,
+      "explanation": "스테인리스강은 크롬이 만든 보호 피막 덕분에 물과 음식물에 닿아도 잘 녹슬지 않는다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-009",
+      "category": "product",
+      "question": "도금강판 위에 도료를 칠해 색과 무늬를 입힌 제품으로, 건축 외장재·가전 외판에 쓰이는 것은?",
+      "choices": [
+        "열연강판",
+        "후판",
+        "컬러강판",
+        "선재"
+      ],
+      "answerIndex": 2,
+      "explanation": "컬러강판은 도금으로 내식성을, 도장으로 미관을 더해 공장 지붕·냉장고 외판 등에 쓰인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-010",
+      "category": "product",
+      "question": "다음 중 자동차 차체 외판 소재로 쓰이는 철강 제품은?",
+      "choices": [
+        "철근",
+        "레일",
+        "석도강판",
+        "냉연·도금강판"
+      ],
+      "answerIndex": 3,
+      "explanation": "얇고 표면이 매끄러운 냉연강판과 녹을 막는 도금강판이 차체 외판에 쓰인다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-011",
+      "category": "product",
+      "question": "선박의 선체를 만드는 데 주로 쓰이는 두꺼운 강판은?",
+      "choices": [
+        "석도강판",
+        "후판",
+        "전기강판",
+        "냉연강판"
+      ],
+      "answerIndex": 1,
+      "explanation": "선체는 큰 수압과 하중을 견뎌야 해서 두꺼운 후판을 용접해 만든다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-012",
+      "category": "product",
+      "question": "열차가 달리는 선로에 쓰이는 철강 제품은?",
+      "choices": [
+        "선재",
+        "석도강판",
+        "전기강판",
+        "레일"
+      ],
+      "answerIndex": 3,
+      "explanation": "레일은 열차의 큰 하중과 반복 충격을 견디도록 내마모성이 높은 강으로 만든다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-013",
+      "category": "product",
+      "question": "압연 전 단계의 반제품이 아닌 것은?",
+      "choices": [
+        "슬래브",
+        "컬러강판",
+        "블룸",
+        "빌릿"
+      ],
+      "answerIndex": 1,
+      "explanation": "슬래브(판재용)·블룸(주로 중대형 형강·레일용)·빌릿(주로 철근·선재 등 소형 봉형강용)은 압연 전 반제품이고, 컬러강판은 최종 제품이다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-014",
+      "category": "product",
+      "question": "다음 중 판재류(판 모양 제품)에 속하는 것은?",
+      "choices": [
+        "철근",
+        "냉연강판",
+        "H형강",
+        "선재"
+      ],
+      "answerIndex": 1,
+      "explanation": "한국철강협회는 철강 제품을 봉형강류(철근·형강·선재 등), 판재류(후판·열연·냉연·도금강판 등), 강관류, 주단강으로 나눈다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-015",
+      "category": "product",
+      "question": "'스테인리스(stainless)'라는 이름의 뜻은?",
+      "choices": [
+        "매우 단단한",
+        "얼룩(녹)이 없는",
+        "자석에 붙지 않는",
+        "빛나는 은색의"
+      ],
+      "answerIndex": 1,
+      "explanation": "stain(얼룩)+less(없는), 즉 녹이나 얼룩이 잘 생기지 않는 강이라는 뜻이다.",
+      "difficulty": "easy",
+      "speed": true
+    },
+    {
+      "id": "PRD-016",
+      "category": "product",
+      "question": "국내에서 일반적으로 두께 6mm 이상의 두꺼운 강판을 부르는 이름은?",
+      "choices": [
+        "후판",
+        "박판",
+        "냉연강판",
+        "석도강판"
+      ],
+      "answerIndex": 0,
+      "explanation": "후판은 조선·교량·건축 구조물 등 큰 하중을 받는 곳에 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-017",
+      "category": "product",
+      "question": "열연강판을 상온에서 다시 압연해 더 얇고 표면을 매끄럽게 만든 제품은?",
+      "choices": [
+        "냉연강판",
+        "후판",
+        "열연코일",
+        "빌릿"
+      ],
+      "answerIndex": 0,
+      "explanation": "냉연강판은 두께 정밀도와 표면 품질이 좋아 자동차 외판과 가전 제품에 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-018",
+      "category": "product",
+      "question": "자동차에 초고장력강(AHSS)을 쓰는 주된 이유는?",
+      "choices": [
+        "얇게 써도 강해 차체 경량화와 충돌 안전을 함께 얻을 수 있어서",
+        "녹이 전혀 슬지 않아서",
+        "전기를 잘 통해서",
+        "값이 일반 강판보다 훨씬 싸서"
+      ],
+      "answerIndex": 0,
+      "explanation": "강도가 높으면 더 얇은 강판으로 같은 강성을 낼 수 있어 연비와 안전성을 동시에 높인다.",
+      "difficulty": "normal",
+      "speed": false
+    },
+    {
+      "id": "PRD-019",
+      "category": "product",
+      "question": "강판을 900℃ 이상으로 가열해 금형에서 성형과 동시에 급랭시켜 초고강도 부품을 만드는 공법은?",
+      "choices": [
+        "핫스탬핑",
+        "롤포밍",
+        "딥드로잉",
+        "전기도금"
+      ],
+      "answerIndex": 0,
+      "explanation": "핫스탬핑은 성형 중 담금질이 일어나 1,500MPa급 부품을 만들며, 차체 기둥(필러) 등에 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-020",
+      "category": "product",
+      "question": "표면에 치밀한 녹층이 생겨 더 이상의 부식을 막아 도장 없이 교량 등에 쓰는 강은?",
+      "choices": [
+        "쾌삭강",
+        "전기강판",
+        "내후성강",
+        "석도강판"
+      ],
+      "answerIndex": 2,
+      "explanation": "내후성강은 구리·크롬 등을 넣어 보호성 녹층을 만들며, 특유의 적갈색 외관으로 건축 외장에도 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-021",
+      "category": "product",
+      "question": "미국석유협회가 정한, 석유·가스 수송용 강관에 널리 쓰이는 규격은?",
+      "choices": [
+        "JIS",
+        "KS",
+        "API",
+        "DIN"
+      ],
+      "answerIndex": 2,
+      "explanation": "API(American Petroleum Institute) 5L은 라인파이프, 5CT는 유정용 강관(OCTG)의 대표 규격이다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-022",
+      "category": "product",
+      "question": "한국산업표준의 약칭은?",
+      "choices": [
+        "JIS",
+        "GB",
+        "DIN",
+        "KS"
+      ],
+      "answerIndex": 3,
+      "explanation": "KS(Korean Industrial Standards)는 국내 철강재의 성분·강도·치수 기준을 정한다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-023",
+      "category": "product",
+      "question": "철강재 규격 'JIS'는 어느 나라의 산업 표준인가?",
+      "choices": [
+        "독일",
+        "일본",
+        "중국",
+        "미국"
+      ],
+      "answerIndex": 1,
+      "explanation": "JIS는 일본산업규격이다. 독일은 DIN, 중국은 GB, 미국은 ASTM·API 등을 쓴다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-024",
+      "category": "product",
+      "question": "용접 이음매 없이 둥근 강편에 구멍을 뚫고 늘려서 만든 강관은?",
+      "choices": [
+        "전기저항용접 강관(ERW)",
+        "이음매 없는 강관(심리스)",
+        "나선형 용접 강관",
+        "각형 강관"
+      ],
+      "answerIndex": 1,
+      "explanation": "심리스 강관은 용접부가 없어 고압·고온에 강해 유정용 강관과 보일러 튜브 등에 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-025",
+      "category": "product",
+      "question": "알루미늄과 아연을 합금으로 도금해 내식성을 높인 강판으로, 흔히 '갈바륨'이라 부르는 것은?",
+      "choices": [
+        "석도강판",
+        "알루미늄-아연 합금도금강판",
+        "전기강판",
+        "열연산세강판"
+      ],
+      "answerIndex": 1,
+      "explanation": "알루미늄 약 55%와 아연으로 도금해 일반 아연도금보다 내식성이 좋아 지붕·외벽재에 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-026",
+      "category": "product",
+      "question": "녹인 아연 욕조에 강판을 담가 도금하는 방식으로 만든 강판의 약칭은?",
+      "choices": [
+        "EG",
+        "CR",
+        "GI",
+        "HR"
+      ],
+      "answerIndex": 2,
+      "explanation": "GI는 용융아연도금강판, EG는 전기아연도금강판이다. CR은 냉연, HR은 열연을 뜻한다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-027",
+      "category": "product",
+      "question": "용융아연도금 후 다시 가열해 철-아연 합금층을 만든, 자동차 외판용 도금강판의 약칭은?",
+      "choices": [
+        "GI",
+        "EG",
+        "PO",
+        "GA"
+      ],
+      "answerIndex": 3,
+      "explanation": "GA(합금화용융아연도금강판)는 용접성과 도장성이 좋아 자동차 차체에 많이 쓰인다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-028",
+      "category": "product",
+      "question": "철근 규격 'SD400'에서 400이 뜻하는 것은?",
+      "choices": [
+        "지름 400mm",
+        "길이 400cm",
+        "탄소 함량 0.400%",
+        "항복강도 400MPa 이상"
+      ],
+      "answerIndex": 3,
+      "explanation": "SD는 이형봉강(Steel Deformed bar)을, 숫자는 최소 항복강도(MPa)를 뜻한다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-029",
+      "category": "product",
+      "question": "조선용 후판에 특히 요구되는 성질로 가장 알맞은 것은?",
+      "choices": [
+        "높은 전기 전도성",
+        "자석에 붙지 않는 성질",
+        "식품 안전성",
+        "높은 강도와 저온 인성, 좋은 용접성"
+      ],
+      "answerIndex": 3,
+      "explanation": "선박은 차가운 바다에서 큰 하중을 받으므로 저온에서도 깨지지 않고 용접이 잘 되는 후판이 필요하다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-030",
+      "category": "product",
+      "question": "판재 제품의 일반적인 생산 순서로 맞는 것은?",
+      "choices": [
+        "냉연 → 열연 → 슬래브 → 도금",
+        "슬래브 → 열연 → 냉연 → 도금",
+        "도금 → 슬래브 → 냉연 → 열연",
+        "열연 → 도금 → 슬래브 → 냉연"
+      ],
+      "answerIndex": 1,
+      "explanation": "연속주조한 슬래브를 열간 압연하고, 산세 후 냉간 압연한 뒤 도금 라인을 거친다.",
+      "difficulty": "normal",
+      "speed": true
+    },
+    {
+      "id": "PRD-031",
+      "category": "product",
+      "question": "규소를 첨가해 자기적 특성을 높이고 모터·변압기 철심에 쓰는 강판은?",
+      "choices": [
+        "전기강판",
+        "아연도금강판",
+        "석도강판",
+        "내후성강판"
+      ],
+      "answerIndex": 0,
+      "explanation": "전기강판은 철손(에너지 손실)을 줄여 모터와 변압기의 효율을 높인다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-032",
+      "category": "product",
+      "question": "결정 방향을 압연 방향으로 정렬해 변압기 철심에 주로 쓰는 전기강판은?",
+      "choices": [
+        "방향성 전기강판",
+        "무방향성 전기강판",
+        "석도강판",
+        "합금화용융아연도금강판"
+      ],
+      "answerIndex": 0,
+      "explanation": "방향성은 한 방향의 자기 특성이 뛰어나 변압기에, 무방향성은 모든 방향이 고른 특성이라 회전하는 모터에 쓰인다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-033",
+      "category": "product",
+      "question": "다음 스테인리스 강종 중 자석에 잘 붙는 것은?",
+      "choices": [
+        "304",
+        "316",
+        "430",
+        "310S"
+      ],
+      "answerIndex": 2,
+      "explanation": "430은 페라이트계라 자성이 있고, 304·316·310S는 오스테나이트계라 기본적으로 자석에 붙지 않는다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-034",
+      "category": "product",
+      "question": "304 강종에 몰리브덴을 더해 바닷물 등 염분 환경에서 내식성을 높인 스테인리스 강종은?",
+      "choices": [
+        "430",
+        "409",
+        "201",
+        "316"
+      ],
+      "answerIndex": 3,
+      "explanation": "316은 몰리브덴 약 2~3%가 들어가 공식(점부식)에 강해 해양·화학 설비에 쓰인다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-035",
+      "category": "product",
+      "question": "성형 중 잔류 오스테나이트가 마르텐사이트로 바뀌며 강도와 연신율을 함께 높이는 자동차 강판은?",
+      "choices": [
+        "DP강",
+        "TRIP강",
+        "IF강",
+        "내후성강"
+      ],
+      "answerIndex": 1,
+      "explanation": "TRIP(변태유기소성)강은 변형 중 상변태로 가공경화가 커진다. DP강은 페라이트와 마르텐사이트의 2상 조직강이다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-036",
+      "category": "product",
+      "question": "탄소·질소 같은 침입형 원소를 극도로 줄여 성형성이 매우 뛰어나 복잡한 차체 외판에 쓰는 강판은?",
+      "choices": [
+        "TRIP강",
+        "쾌삭강",
+        "고망간강",
+        "IF강"
+      ],
+      "answerIndex": 3,
+      "explanation": "IF(Interstitial Free)강은 티타늄·니오븀으로 탄소·질소를 고정해 딥드로잉 성형에 적합하다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-037",
+      "category": "product",
+      "question": "API 5L 라인파이프 강관 등급 'X70'에서 70이 뜻하는 것은?",
+      "choices": [
+        "외경 70인치",
+        "최소 항복강도 70ksi",
+        "두께 70mm",
+        "최대 사용온도 70℃"
+      ],
+      "answerIndex": 1,
+      "explanation": "X 뒤의 숫자는 최소 항복강도를 천 psi(ksi) 단위로 나타내며, X70은 약 485MPa다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-038",
+      "category": "product",
+      "question": "LNG 저장탱크처럼 약 영하 162℃ 극저온에서도 깨지지 않도록 전통적으로 쓰여 온 대표 강재는?",
+      "choices": [
+        "일반구조용 탄소강",
+        "쾌삭강",
+        "9% 니켈강",
+        "규소강"
+      ],
+      "answerIndex": 2,
+      "explanation": "니켈 9%를 넣은 강은 극저온 인성이 뛰어나 LNG 탱크에 쓰여 왔고, 최근에는 고망간강도 대안으로 쓰인다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-039",
+      "category": "product",
+      "question": "황·납 등을 넣어 절삭 가공이 잘 되도록 한 강은?",
+      "choices": [
+        "내후성강",
+        "스프링강",
+        "쾌삭강",
+        "베어링강"
+      ],
+      "answerIndex": 2,
+      "explanation": "쾌삭강은 칩이 잘 끊어지고 공구 마모가 적어 볼트·너트·정밀 부품의 대량 가공에 쓰인다.",
+      "difficulty": "hard",
+      "speed": true
+    },
+    {
+      "id": "PRD-040",
+      "category": "product",
+      "question": "H형강 치수 표기 'H-300×300×10×15'의 순서로 맞는 것은?",
+      "choices": [
+        "폭×높이×플랜지 두께×웨브 두께",
+        "길이×폭×높이×무게",
+        "높이×길이×웨브 두께×무게",
+        "높이×폭×웨브 두께×플랜지 두께"
+      ],
+      "answerIndex": 3,
+      "explanation": "H형강은 높이(H)×플랜지 폭(B)×웨브 두께(t1)×플랜지 두께(t2) 순으로 표기한다.",
+      "difficulty": "hard",
+      "speed": true
+    }
+  ]
+}
